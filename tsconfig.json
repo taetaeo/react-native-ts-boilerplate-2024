@@ -48,7 +48,9 @@
   // 컴파일에서 제외할 디렉토리 및 파일을 설정
   "exclude": [
     "node_modules",
+    "babel.config.js",
     ".babelrc.js",
+    "commitlint.config.js",
     "metro.config.js",
     "jest.config.js"
   ]
